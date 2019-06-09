@@ -1,0 +1,13 @@
+At mongodb atlas
+
+email=>tapendraxtra72@gmail.com
+pwd=>Tks@9058485729
+
+for task app
+
+ip=>0.0.0.0/0
+
+username=>taskapp
+password= TaskAppDB
+
+info=>mongodb+srv://taskapp:<password>@cluster0-uozbj.mongodb.net/test
